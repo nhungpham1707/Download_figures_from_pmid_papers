@@ -5,12 +5,12 @@ Nhung Pham 18-06-2021
 # Input:
 - List of pm ids as data. In this case, the collection from the DM project was used
 
-#Output:
+# Output:
 - Pathway figures stored in sub-folder named after the pmid of the original paper
 - text file that indicates which pm ids do not contain pathway figures (no_pathway.txt)
 - text file that indicates which pm ids cannot be mapped to PMCID (no_found_ids.txt)
 
-#### How to run:
+# How to run:
 
 - The main code is in the jupyter notebook file “Download_figures_from_PMC_papers”
 - Add input to the function “take_imgs_from_multiple_sites” . Figures will be saved in the output folder in the current directory.
