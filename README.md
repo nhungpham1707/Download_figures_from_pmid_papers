@@ -2,10 +2,10 @@ The code is to automatically download figures that contain either pathway or net
 
 Nhung Pham 18-06-2021
 
-#### Input:
+# Input:
 - List of pm ids as data. In this case, the collection from the DM project was used
 
-#### Output:
+#Output:
 - Pathway figures stored in sub-folder named after the pmid of the original paper
 - text file that indicates which pm ids do not contain pathway figures (no_pathway.txt)
 - text file that indicates which pm ids cannot be mapped to PMCID (no_found_ids.txt)
