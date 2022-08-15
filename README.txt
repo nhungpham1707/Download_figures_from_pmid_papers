@@ -1,6 +1,5 @@
-Pathway figures are stored in output (for paper that has PMCID) and output_noPMCIDs (for paper that only have PMIDs) folders
+The code is to automatically download figures that contain either pathway or network in the figure caption from a list of papers with PMIDs. Pathway figures are stored in output (for paper that has PMCID) and output_noPMCIDs (for paper that only have PMIDs) folders
 
-The code is to download figures that contain either pathway or network in the figure caption from PM ID paper.
 Nhung Pham 18-06-2021
 
 Input:
